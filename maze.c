@@ -10,7 +10,6 @@
 #define maxRow 12
 #define maxCol 12
 
-//DEVO FARLO CON GLI IF NESTATI DIO CANEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE, CIAO DARIO DI DOMANI
 
 char labyrinth[maxRow][maxCol] =    	  { {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#'},
 						       	   	   	    {'#', '.', '.', '.', '#', '.', '.', '.', '.', '.', '.', '#'},
